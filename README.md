@@ -24,3 +24,6 @@ Programatically interact with a DynamoDB table that is running locally on Docker
 
 ## Week 06 - REST APIs
 Create a custom API as well as interact with public APIs
+
+## Week 07 - Lambda
+Created a Lambda function that punches a time stampt to a DynamoDB table
